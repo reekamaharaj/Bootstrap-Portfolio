@@ -1,7 +1,41 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}
+
 body {
+
     background: url('spikes/spikes.png');
 }
 
+h3 {
+    background: #4aaaa5;
+    color: #ffffff;
+    padding: 1em 2em;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+h4 {
+    color: #4aaaa5;
+    padding-bottom: 1em;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.btn {
+    background: #4aaaa5;
+    background-color: #4aaaa5;
+    color:  white;
+    padding: .5em 1em;
+}
+
+.border-width {
+    border-width: .3em !important;
+    border-color: #4aaaa5 !important;
+}
+
+.textbackground {
+    background: #4aaaa5;
+}
 
 /* 
 Teal color: #4aaaa5
