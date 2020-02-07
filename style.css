@@ -3,8 +3,11 @@
     color: #777777;
 }
 
-body {
+html, body {
+    height: 100%;
+}
 
+body {
     background: url('spikes/spikes.png');
 }
 
@@ -13,6 +16,8 @@ h3 {
     color: #ffffff;
     padding: 1em 2em;
     font-family: Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    
 }
 
 h4 {
@@ -33,19 +38,15 @@ h4 {
     border-color: #4aaaa5 !important;
 }
 
-.textbackground {
+.text {
     background: #4aaaa5;
+    position: absolute;
+    top: 60%;
+    width: 100%;
+    left: 0%;
 }
 
-/* 
-Teal color: #4aaaa5
-regular font color: #77777
-Main header border color: #fffff
-Footer background color: #66666
-Main content background color: #fffff
-Main content background color: #ddddd
+.card {
+    margin: 1em;
+}
 
-fonts: font-family: 'Georgia', Times, Times New Roman, serif;
-fonts: 'Arial', 'Helvetica Neue', Helvetic, sans-serif
-
-*/
