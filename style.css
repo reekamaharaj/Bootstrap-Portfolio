@@ -46,7 +46,17 @@ h4 {
     left: 0%;
 }
 
-.card {
+.image-card {
     margin: 1em;
 }
 
+.navbar-full-height {
+    padding: 0;
+}
+
+.navbar-full-height .navbar-brand {
+    margin: 0;
+    line-height: 65px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
