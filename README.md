@@ -2,6 +2,8 @@
 
 A sample portfolio built using bootstrap.
 
+[Link to deployed page](https://reekamaharaj.github.io/Bootstrap-Portfolio/)
+
 ## Tech Used
 - HTML
 - CSS
@@ -10,7 +12,5 @@ A sample portfolio built using bootstrap.
 
 ![](bootstrapport.png)
 
-[Link to deployed page](https://reekamaharaj.github.io/Bootstrap-Portfolio/)
-
-## Role in Development
+### Role in Development
 HTML and CSS styling.
